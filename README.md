@@ -17,16 +17,16 @@ Ryan is the creator of RynoDevPro.io, where he writes code and make videos focus
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="icons/javascript.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icons/typescript.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="icons/react.svg" width="36" height="36" alt="React" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="icons/reactnative.svg" width="36" height="36" alt="React Native" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="icons/reactnative.svg" width="36" height="36" style="max-width: 100%; background-color: #202329;" alt="React Native" /></a> 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="icons/flutter.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="icons/tailwindcss.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="icons/html5.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="icons/sass.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="icons/css3.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="icons/materialui.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="icons/nextjs.svg" width="36" height="36" background-color="white" alt="NextJs" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="icons/nextjs.svg" width="36" height="36" style="max-width: 100%; background-color: white;" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="icons/nodejs.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="icons/expressjs.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="icons/expressjs.svg" width="36" height="36" style="max-width: 100%; background-color: white;" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="icons/graphql.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -39,7 +39,38 @@ Ryan is the creator of RynoDevPro.io, where he writes code and make videos focus
 
 ### Socials
 
-<p align="left"> <a href="https://codesandbox.io/u/ryan-loughner" target="_blank" rel="noreferrer"><img src="icons/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/ryanloughner" target="_blank" rel="noreferrer"><img src="icons/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/ryan-loughner/" target="_blank" rel="noreferrer"><img src="icons/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ryanloughner/" target="_blank" rel="noreferrer"><img src="icons/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/ryanloughner" target="_blank" rel="noreferrer"><img src="icons/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ryan.loughner" target="_blank" rel="noreferrer"><img src="icons/medium.svg" width="32" height="32" /></a> <a href="https://ryan-loughner.me/rss" target="_blank" rel="noreferrer"><img src="icons/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/1943226/ryanl33" target="_blank" rel="noreferrer"><img src="icons/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RyanLoughner" target="_blank" rel="noreferrer"><img src="icons/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCsY6geX3MBjAWr5ebl3D3EA" target="_blank" rel="noreferrer"><img src="icons/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://codesandbox.io/u/ryan-loughner" target="_blank" rel="noreferrer">
+<img src="icons/codesandbox.svg" width="32" height="32" style="max-width: 100%; background-color: white;" />
+</a> 
+<a href="https://www.dev.to/ryanloughner" target="_blank" rel="noreferrer">
+<img src="icons/devdotto.svg" width="32" height="32" style="max-width: 100%; background-color: white;"/>
+</a> 
+<a href="https://www.github.com/ryan-loughner/" target="_blank" rel="noreferrer">
+<img src="icons/github.svg" width="32" height="32" style="max-width: 100%; background-color: white;"/>
+</a> 
+<a href="https://www.linkedin.com/in/ryanloughner/" target="_blank" rel="noreferrer">
+<img src="icons/linkedin.svg" width="32" height="32" />
+</a> 
+<a href="https://www.polywork.com/ryanloughner" target="_blank" rel="noreferrer">
+<img src="icons/polywork.svg" width="32" height="32" />
+</a> 
+<a href="http://www.medium.com/@ryan.loughner" target="_blank" rel="noreferrer">
+<img src="icons/medium.svg" width="32" height="32" style="max-width: 100%; background-color: white;"/>
+</a> 
+<a href="https://ryan-loughner.me/rss" target="_blank" rel="noreferrer">
+<img src="icons/rss.svg" width="32" height="32" />
+</a> 
+<a href="https://www.stackoverflow.com/users/1943226/ryanl33" target="_blank" rel="noreferrer">
+<img src="icons/stackoverflow.svg" width="32" height="32" />
+</a> 
+<a href="https://www.twitter.com/RyanLoughner" target="_blank" rel="noreferrer">
+<img src="icons/twitter.svg" width="32" height="32" />
+</a> 
+<a href="https://www.youtube.com/channel/UCsY6geX3MBjAWr5ebl3D3EA" target="_blank" rel="noreferrer">
+<img src="icons/youtube.svg" width="32" height="32" />
+</a>
+</p>
 
 ### Support Me
 
