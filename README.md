@@ -24,7 +24,7 @@ Ryan is the creator of RynoDevPro.io, where he writes code and make videos focus
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="icons/sass.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="icons/css3.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="icons/materialui.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="icons/nextjs.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="icons/nextjs.png" width="36" height="36" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="icons/nodejs.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="icons/expressjs.png" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="icons/graphql.svg" width="36" height="36" alt="GraphQL" /></a>
@@ -44,10 +44,10 @@ Ryan is the creator of RynoDevPro.io, where he writes code and make videos focus
 <img src="icons/codesandbox.png" width="32" height="32" />
 </a> 
 <a href="https://www.dev.to/ryanloughner" target="_blank" rel="noreferrer">
-<img src="icons/devdotto.svg" width="32" height="32" >
+<img src="icons/devdotto.png" width="32" height="32" >
 </a> 
 <a href="https://www.github.com/ryan-loughner/" target="_blank" rel="noreferrer">
-<img src="icons/github.svg" width="32" height="32" >
+<img src="icons/github.png" width="32" height="32" >
 </a> 
 <a href="https://www.linkedin.com/in/ryanloughner/" target="_blank" rel="noreferrer">
 <img src="icons/linkedin.svg" width="32" height="32" />
