@@ -26,7 +26,7 @@ Ryan is the creator of RynoDevPro.io, where he writes code and make videos focus
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="icons/materialui.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="icons/nextjs.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="icons/nodejs.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="icons/expressjs.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="icons/expressjs.png" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="icons/graphql.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" /></a>
