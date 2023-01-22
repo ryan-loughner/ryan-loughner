@@ -2,7 +2,7 @@
 
 ## Developer. Educator. Tech Advocate.
 
-Ryan is the creator of RynoDevPro.io, where he writes code and make videos focusing on JavaScript development stacks for mobile and web applications, Flutter, React Native, tailwind, Firebase, Linode, and MongoDB. With close to 15 years of experience, Ryan is passionate about solving problems with technology, creating modern end-to-end custom software solutions that scale, and sharing his knowledge with others. He's proud to be a patent holder, and is a modern technology advocate. In his spare time, Ryan enjoys woodworking, cooking, boxing, and fishing.
+Ryan is the creator of RynoDevPro.io, where he writes code and make videos focusing on JavaScript development stacks for mobile and web applications, Flutter, React Native, tailwind, Firebase, Linode, and MongoDB. With close to 15 years of experience, Ryan is passionate about solving problems with technology, creating modern end-to-end custom software solutions that scale, and sharing his knowledge with others. He's proud to be a patent holder, and is a modern technology advocate. In his spare time, Ryan enjoys woodworking, smoking and grilling food, boxing, and fishing.
 
 - 🌍  I'm based in Pittsburgh, PA
 - 🖥️  See my portfolio at [My Portfolio](https://ryan-loughner.me)
@@ -41,7 +41,7 @@ Ryan is the creator of RynoDevPro.io, where he writes code and make videos focus
 
 <p align="left"> 
 <a href="https://codesandbox.io/u/ryan-loughner" target="_blank" rel="noreferrer">
-<img src="icons/codesandbox.svg" width="32" height="32" />
+<img src="icons/codesandbox.png" width="32" height="32" />
 </a> 
 <a href="https://www.dev.to/ryanloughner" target="_blank" rel="noreferrer">
 <img src="icons/devdotto.svg" width="32" height="32" >
