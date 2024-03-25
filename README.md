@@ -31,7 +31,7 @@ Ryan writes code focusing on JavaScript development stacks for mobile and web ap
 <a href="https://astro.build" target="_blank" rel="noreferrer"><img src="icons/astro.svg" width="36" height="36" alt="Astro" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="icons/supabase-logo-icon.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="icons/firebase.svg" width="36" height="36" alt="Firebase" /></a>
+<!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="icons/firebase.svg" width="36" height="36" alt="Firebase" /></a> -->
 <!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="icons/dot-net.svg" width="36" height="36" alt=".NET" /></a> -->
 <!-- <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="icons/flutter.svg" width="36" height="36" alt="Flutter" /></a> -->
 <!-- <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="icons/photoshop.svg" width="36" height="36" alt="Photoshop" /></a> -->
