@@ -22,6 +22,7 @@ Ryan writes code focusing on JavaScript development stacks for mobile and web ap
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="icons/photoshop.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="icons/react.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="icons/nextjs.png" width="36" height="36" alt="NextJs" /></a>
+<a href="https://remix.run/docs/en/main" target="_blank" rel="noreferrer"><img src="icons/remix.svg" width="36" height="36" alt="Remix" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="icons/nestjs.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="icons/expressjs.png" width="36" height="36" alt="Express" /></a>
 <!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="icons/graphql.svg" width="36" height="36" alt="GraphQL" /></a> -->
