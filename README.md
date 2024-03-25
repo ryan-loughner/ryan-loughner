@@ -19,7 +19,6 @@ Ryan writes code focusing on JavaScript development stacks for mobile and web ap
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icons/typescript.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="icons/css3.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="icons/tailwindcss.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="icons/photoshop.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="icons/react.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="icons/nextjs.png" width="36" height="36" alt="NextJs" /></a>
 <a href="https://remix.run/docs/en/main" target="_blank" rel="noreferrer"><img src="icons/remix.svg" width="36" height="36" alt="Remix" /></a>
@@ -32,6 +31,7 @@ Ryan writes code focusing on JavaScript development stacks for mobile and web ap
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="icons/firebase.svg" width="36" height="36" alt="Firebase" /></a>
 <!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="icons/dot-net.svg" width="36" height="36" alt=".NET" /></a> -->
 <!-- <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="icons/flutter.svg" width="36" height="36" alt="Flutter" /></a> -->
+<!-- <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="icons/photoshop.svg" width="36" height="36" alt="Photoshop" /></a> -->
 </p> 
 
 ### Socials
