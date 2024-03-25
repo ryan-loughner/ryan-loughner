@@ -27,7 +27,7 @@ Ryan writes code focusing on JavaScript development stacks for mobile and web ap
 <!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="icons/graphql.svg" width="36" height="36" alt="GraphQL" /></a> -->
 <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a> -->
 <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="icons/go.svg" width="36" height="36" alt="GoLang" /></a>
-<a href="https://python.org" target="_blank" rel="noreferrer"><img src="icons/python-logo.png" width="290" height="82" alt="Python" /></a>
+<a href="https://python.org" target="_blank" rel="noreferrer"><img src="icons/python-logo.png" width="50" height="14" alt="Python" /></a>
 <a href="https://astro.build" target="_blank" rel="noreferrer"><img src="icons/astro.svg" width="36" height="36" alt="Astro" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="icons/supabase-logo-icon.svg" width="36" height="36" alt="Supabase" /></a>
