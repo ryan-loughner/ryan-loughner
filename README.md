@@ -6,10 +6,9 @@ Ryan writes code and make videos focusing on JavaScript development stacks for m
 
 <!-- - 🖥️  See my portfolio at [My Portfolio](https://ryan-loughner.me) -->
 <!-- - 🚀  I'm currently working on [an e-commerce starter app based on React, Tailwind, and Firebase.](https://react-store-starter.netlify.app/) -->
-- 🌍  Pittsburgh, PA
-- 🚀  Currently working on an e-commerce app using React, Tailwind, and Firebase.
+- 🚀  Currently working on a SaaS application using Remix.
 - 🧠  Learning Astro
-- 🤝  Open to collaborating on React and Firebase apps, MVP ideas, web and mobile apps
+<!-- - 🤝  Open to collaborating on React and Firebase apps, MVP ideas, web and mobile apps -->
 - ⚡  What did the amazed React component say to its child? I've got to give you props.
 
 ### Skills
