@@ -44,9 +44,7 @@ Ryan writes code and make videos focusing on JavaScript development stacks for m
 <a href="https://codesandbox.io/u/ryan-loughner" target="_blank" rel="noreferrer">
 <img src="icons/codesandbox.png" width="32" height="32" />
 </a> 
-<a href="https://www.dev.to/ryanloughner" target="_blank" rel="noreferrer">
-<img src="icons/devdotto.png" width="32" height="32" >
-</a> 
+<!--  
 <a href="https://www.github.com/ryan-loughner/" target="_blank" rel="noreferrer">
 <img src="icons/github.png" width="32" height="32" >
 </a> 
@@ -55,10 +53,14 @@ Ryan writes code and make videos focusing on JavaScript development stacks for m
 </a> 
 <a href="https://www.polywork.com/ryanloughner" target="_blank" rel="noreferrer">
 <img src="icons/polywork.svg" width="32" height="32" />
+</a> -->
+<a href="https://www.dev.to/ryanloughner" target="_blank" rel="noreferrer">
+<img src="icons/devdotto.png" width="32" height="32" >
 </a> 
 <a href="http://www.medium.com/@ryan.loughner" target="_blank" rel="noreferrer">
 <img src="icons/medium.svg" width="32" height="32" >
 </a> 
+<!--
 <a href="https://ryan-loughner.me/rss" target="_blank" rel="noreferrer">
 <img src="icons/rss.svg" width="32" height="32" />
 </a> 
@@ -70,7 +72,7 @@ Ryan writes code and make videos focusing on JavaScript development stacks for m
 </a> 
 <a href="https://www.youtube.com/channel/UCsY6geX3MBjAWr5ebl3D3EA" target="_blank" rel="noreferrer">
 <img src="icons/youtube.svg" width="32" height="32" />
-</a>
+</a> -->
 </p>
 
 ### Support Me
